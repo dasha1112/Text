@@ -1,0 +1,7 @@
+﻿  TText.cpp
+D:\Laba_alg\Text\src\TText.cpp(84,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Laba_alg\Text\src\TText.cpp(119,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Laba_alg\Text\src\TText.cpp(142,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Laba_alg\Text\src\TText.cpp(235,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Laba_alg\Text\src\TText.cpp(114): warning C4715: TText::FindPage: значение возвращается не при всех путях выполнения
+  set.vcxproj -> D:\Laba_alg\Text\build\lib\Debug\set.lib
