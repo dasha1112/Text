@@ -1,0 +1,6 @@
+D:/Laba_alg/Text/build/CMakeFiles/ALL_BUILD.dir
+D:/Laba_alg/Text/build/CMakeFiles/ZERO_CHECK.dir
+D:/Laba_alg/Text/build/src/CMakeFiles/set.dir
+D:/Laba_alg/Text/build/samples/CMakeFiles/TTextSamples.dir
+D:/Laba_alg/Text/build/gtest/CMakeFiles/gtest.dir
+D:/Laba_alg/Text/build/test/CMakeFiles/test_set.dir
